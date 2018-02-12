@@ -1,0 +1,5 @@
+<players>2</players>
+<boardSize>3</boardSize>
+<winSequence>3</winSequence>
+<currentPlayer>0</currentPlayer>
+<board>XXOOOXXO </board>
